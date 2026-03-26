@@ -4,6 +4,7 @@ This repository contains my solutions to various competitive programming problem
 The goal is to improve problem-solving skills, strengthen DSA concepts, and maintain a structured archive of solutions.
 
 ## 📂 Folder Structure
+```
 competitive-programming/
 │
 ├── Codeforces/
@@ -14,7 +15,7 @@ competitive-programming/
 ├── LeetCode/
 │
 ├── CodeChef/
-
+```
 ---
 
 ## 🧠 Approach
